@@ -1,0 +1,10 @@
+
+
+
+Install Uncomplicated Firewall on Raspberry pi 3 model B
+
+sudo apt-get install ufw
+sudo apt-get upgrade
+suo apt-get update
+
+exit 
